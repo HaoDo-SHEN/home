@@ -1,28 +1,23 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Waze",
+    "name": "最新地址",
+    "link": "https://freehishd.355m.cn/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "国外地址",
+    "link": "https://ww1.freehishd.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Dungeon",
+    "name": "国内地址",
+    "link": "https://freehishd.355m.cn/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "备用地址",
+    "link": "https://ww3.freehishd.top/"
   },
   {
     "icon": "Fire",
